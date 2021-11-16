@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.box1 {
+    width: 1300px;
+    height: 125px;
+    border: 3px solid black;
+    background-color: rgba(88, 235, 100, 0.76);
+    margin: 15px 20px auto 20px;
+    /* position: relative; */
+}
+
+.box {
+    border: 3px solid black;
+    margin: 30px 20px auto;
+    /* position: relative; */
+}
+
+.gabungan {
+    display: flex;
+}
+
+.box2 {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+
+.box3 {
+    width: 1060px;
+    height: 200px;
+    background-color: rgba(238, 110, 36, 0.911);
+}
+
+.box4 {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+
+.box5 {
+    width: 1060px;
+    height: 200px;
+    background-color: rgba(0, 190, 248, 0.863);
+}
